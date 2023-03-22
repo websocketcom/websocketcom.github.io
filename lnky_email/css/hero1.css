@@ -1,0 +1,37 @@
+.header {
+    background: #ffffff;
+}
+
+.header .columns {
+    padding-bottom: 0;
+}
+
+.header p {
+    color: #147dc2;
+    margin-bottom: 0;
+    line-height: 50px;
+    font-weight: 10em;
+}
+
+.header_logo{
+    width: 50px;
+    height: 50px;
+    border: #147dc2 dashed 1px;
+    border-radius: 5px;
+}
+
+.content_box{
+    border-radius: 10px;
+}
+
+.header .wrapper-inner {
+    padding: 20px;
+}
+
+.header .container {
+    background: #ffffff;
+}
+
+.wrapper.secondary {
+    background: #f3f3f3;
+}
