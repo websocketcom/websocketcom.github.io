@@ -10,4 +10,5 @@ nginx.htaccess
 composer.lock
 a.php
 /node_modules/
+
 /public/.user.ini
