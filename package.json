@@ -1,0 +1,8 @@
+{
+	"dependencies": {
+		"webp-converter": "^2.3.3"
+	},
+	"scripts": {
+		"start": "node image.js"
+	}
+}

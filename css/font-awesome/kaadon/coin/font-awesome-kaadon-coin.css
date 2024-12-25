@@ -1,0 +1,38 @@
+@font-face {
+  font-family: "font-awesome-kaadon-coin"; /* Project id  */
+  src: url('font-awesome-kaadon-coin.ttf?t=1719565709562') format('truetype');
+}
+
+.fakc {
+  font-family: "font-awesome-kaadon-coin" !important;
+  font-size: 5.5em;
+  font-style: normal;
+  font-weight: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.fakc-coin-rmb:before {
+  content: "\e63c";
+}
+
+.fakc-coin-eth:before {
+  content: "\e626";
+}
+
+.fakc-coin-usdt:before {
+  content: "\e698";
+}
+
+.fakc-coin-usd:before {
+  content: "\e673";
+}
+
+.fa-coin-btc:before {
+  content: "\e630";
+}
+
+.fa-coin-trx:before {
+  content: "\e643";
+}
+

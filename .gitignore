@@ -1,0 +1,17 @@
+/.idea
+/.vscode
+*.log
+.env
+.htaccess
+nginx.htaccess
+/runtime/
+/public/storage/*
+/vendor/
+composer.lock
+a.php
+/node_modules/
+
+/public/.user.ini
+/uploads/
+/uPic/
+pnpm-lock.yaml
